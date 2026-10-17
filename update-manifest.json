@@ -1,6 +1,6 @@
 {
   "version": "3.2.0",
-  "download_url": "https://github.com/lsw2696/liber-ai-video-center-releases/releases/download/v3.2.0/LiberVideoCenter-3.2.0-Setup.exe",
+  "installer_url": "https://github.com/lsw2696/liber-ai-video-center-releases/releases/download/v3.2.0/LiberVideoCenter-3.2.0-Setup.exe",
   "sha256": "0D0924A5263261FF28DF879698DE7F6120284A0148A980F70E3EEA04EDEB9075",
   "notes": "첫 고객용 배포 버전입니다."
 }
