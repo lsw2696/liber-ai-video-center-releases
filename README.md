@@ -6,7 +6,7 @@
 ## 설치 방법
 
 1. 오른쪽의 **Releases**에서 최신 버전을 엽니다.
-2. `LiberVideoCenter-Setup.exe`를 내려받아 실행합니다.
+2. `LiberVideoCenter-Customer-버전-Setup.exe`를 내려받아 실행합니다.
 3. 설치 중 **바탕화면 바로가기 만들기**를 선택할 수 있습니다.
 
 ## 업데이트

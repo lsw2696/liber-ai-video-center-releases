@@ -1,6 +1,6 @@
 {
-  "version": "3.2.2",
-  "installer_url": "https://github.com/lsw2696/liber-ai-video-center-releases/releases/download/v3.2.2/LiberVideoCenter-Customer-3.2.2-Setup.exe",
-  "sha256": "B0F36191A00C08D8F65D2EA0314B2376A355CA47E77178627E4EC5FCB90525E8",
-  "notes": "고객용 별도 배포판입니다."
+  "version": "3.2.3",
+  "installer_url": "https://github.com/lsw2696/liber-ai-video-center-releases/releases/download/v3.2.3/LiberVideoCenter-Customer-3.2.3-Setup.exe",
+  "sha256": "00D0EB8583EDAA2182F7FC4A5958B33043411ED5FE98E4D114F85482A59F3217",
+  "notes": "MP4 제작 진행 표시, 한국어 출력 비율, 12장면 야담 빠른 시작을 추가했습니다."
 }
